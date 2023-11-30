@@ -1,0 +1,14 @@
+C:\Users\пк\Desktop\C#\C#project1\bin\Debug\net8.0\C#project1.exe
+C:\Users\пк\Desktop\C#\C#project1\bin\Debug\net8.0\C#project1.deps.json
+C:\Users\пк\Desktop\C#\C#project1\bin\Debug\net8.0\C#project1.runtimeconfig.json
+C:\Users\пк\Desktop\C#\C#project1\bin\Debug\net8.0\C#project1.dll
+C:\Users\пк\Desktop\C#\C#project1\bin\Debug\net8.0\C#project1.pdb
+C:\Users\пк\Desktop\C#\C#project1\obj\Debug\net8.0\C#project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\C#\C#project1\obj\Debug\net8.0\C#project1.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\C#\C#project1\obj\Debug\net8.0\C#project1.AssemblyInfo.cs
+C:\Users\пк\Desktop\C#\C#project1\obj\Debug\net8.0\C#project1.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\C#\C#project1\obj\Debug\net8.0\C#project1.dll
+C:\Users\пк\Desktop\C#\C#project1\obj\Debug\net8.0\refint\C#project1.dll
+C:\Users\пк\Desktop\C#\C#project1\obj\Debug\net8.0\C#project1.pdb
+C:\Users\пк\Desktop\C#\C#project1\obj\Debug\net8.0\C#project1.genruntimeconfig.cache
+C:\Users\пк\Desktop\C#\C#project1\obj\Debug\net8.0\ref\C#project1.dll
