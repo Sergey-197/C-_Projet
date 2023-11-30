@@ -1,0 +1,15 @@
+C:\Users\пк\Desktop\C#\C#projet2\bin\Debug\net8.0\C#projet2.exe
+C:\Users\пк\Desktop\C#\C#projet2\bin\Debug\net8.0\C#projet2.deps.json
+C:\Users\пк\Desktop\C#\C#projet2\bin\Debug\net8.0\C#projet2.runtimeconfig.json
+C:\Users\пк\Desktop\C#\C#projet2\bin\Debug\net8.0\C#projet2.dll
+C:\Users\пк\Desktop\C#\C#projet2\bin\Debug\net8.0\C#projet2.pdb
+C:\Users\пк\Desktop\C#\C#projet2\obj\Debug\net8.0\C#projet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\C#\C#projet2\obj\Debug\net8.0\C#projet2.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\C#\C#projet2\obj\Debug\net8.0\C#projet2.AssemblyInfo.cs
+C:\Users\пк\Desktop\C#\C#projet2\obj\Debug\net8.0\C#projet2.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\C#\C#projet2\obj\Debug\net8.0\C#projet2.sourcelink.json
+C:\Users\пк\Desktop\C#\C#projet2\obj\Debug\net8.0\C#projet2.dll
+C:\Users\пк\Desktop\C#\C#projet2\obj\Debug\net8.0\refint\C#projet2.dll
+C:\Users\пк\Desktop\C#\C#projet2\obj\Debug\net8.0\C#projet2.pdb
+C:\Users\пк\Desktop\C#\C#projet2\obj\Debug\net8.0\C#projet2.genruntimeconfig.cache
+C:\Users\пк\Desktop\C#\C#projet2\obj\Debug\net8.0\ref\C#projet2.dll
